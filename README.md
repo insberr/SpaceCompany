@@ -7,6 +7,15 @@ Currently, the game is in Beta, which means there is frequent, active developmen
 
 - Check our Trello Board! https://trello.com/b/3JDTz7E7/space-company
 
+
+## insberr
+- Use tailwindcss and vuejs (or react)
+- Write the core/engine
+- Make sure the production release has the js minified : )
+- Make PWA
+- Design the UI
+
+
 # Changelog:
 
 ### v0.5.0.6 (includes all V0.5.0.X)
