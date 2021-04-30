@@ -3,15 +3,32 @@
   "version": "1.0.0",
   "homepage": "https://github.com/sparticle999/SpaceCompany",
   "licenses": "",
-  "author": {
-	  "name": "sparticle999"
-  },
+  "author": "sparticle999",
   "engines": {
     "node": ">= 0.10.0"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-contrib-concat": "~0.4.0",
-    "grunt-contrib-uglify": "~0.5.0"
+    "grunt-contrib-uglify": "~0.5.0",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0"
+  },
+  "description": "Space Company is a science-fiction incremental game where you start from humble beginnings on Earth, working your way up to travelling between star systems and building Dyson Spheres and pretty much colonising the entire galaxy(ies?)",
+  "main": "Gruntfile.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insberr/SpaceCompany.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insberr/SpaceCompany/issues"
   }
 }
