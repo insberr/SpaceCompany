@@ -1,5 +1,4 @@
 Game.wonder = (function(){
-
     function UpdateProgress(id) {
         var previous = new Date();
         var id = id;
